@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ngynetahnuv</h1>
-<h3 align="center">Toi la mot nguoi hoc sinh dang hoc hoi ve code. Toi dang theo duoi la front-end developer</h3>
+<h3 align="center">Toi la mot nguoi hoc sinh dang hoc hoi ve code. Toi dang theo duoi front-end developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, C++**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, PHP**
 
 - 📫 How to reach me **nguyenthanhvudvfb@gmail.com**
 
