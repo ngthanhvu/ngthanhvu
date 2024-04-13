@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ngthanhvu</h1>
 <h3 align="center">Tôi tên là nguyễn thanh vũ đây nè hehe</h3>
 
-- 🌱 Hiện tôi đang học **HTML, CSS, Javascript, PHP**
-
 - 📫 Liên lạc với tôi **nguyenthanhvudvfb@gmail.com**
 
 
