@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lọc Thông Tin</title>
+    <!-- Link Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-3">Nhập danh sách thẻ</h2>
+        <div class="mb-3">
+            <textarea id="inputData" class="form-control" rows="5" placeholder="Nhập dữ liệu dạng: 4388540100286276|02|2029|888 ..."></textarea>
+        </div>
+        <div class="mb-3">
+            <button class="btn btn-primary" onclick="processInput()">Lọc Thông Tin</button>
+            <button class="btn btn-success" onclick="copyToClipboard()">Sao chép kết quả</button>
+        </div>
+
+        <h2 class="mt-5">Kết quả</h2>
+        <pre id="output" class="bg-light p-3 border"></pre>
+    </div>
+
+    <!-- Link Bootstrap JS and Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+
+    <script>
+        function processData(data) {
+            const lines = data.split('\n').filter(line => line.trim() !== ''); // Loại bỏ dòng trống
+            const result = lines.map(line => {
+                const [cardNumber, expiryMonth, expiryYear, cvv] = line.split('|');
+                return `${cardNumber}\t${expiryMonth}/${expiryYear}\t${cvv}`; // Tách bằng dấu tab
+            });
+            return result.join('\n');
+        }
+
+        function processInput() {
+            const inputData = document.getElementById('inputData').value;
+            const result = processData(inputData);
+            const output = document.getElementById('output');
+            output.textContent = result;
+        }
+
+        function copyToClipboard() {
+            const outputText = document.getElementById('output').textContent;
+            const textarea = document.createElement('textarea');
+            textarea.value = outputText;
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            alert("Kết quả đã được sao chép!");
+        }
+    </script>
+</body>
+</html>
