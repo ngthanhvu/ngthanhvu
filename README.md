@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Thanh Vũ
 =======================================================================================================================================
 
-Backend Web Dev
+Backend PHP
 ---------------
 
 I've been learning to code for 1 years. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Buon Ma Thuot, Viet Nam
 * ✉️  You can contact me at [nguyenthanhvudvfb@gmail.com](mailto:nguyenthanhvudvfb@gmail.com)
-* 🧠  I'm learning VueJs, Laravel,...
+* 🧠  I'm learning HTML, CSS, JS, PHP, VUEJS, LARAVEL, and MOREee...
 
 ### Skills
 
