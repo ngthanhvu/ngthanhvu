@@ -1,31 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Thanh Vũ
-=======================================================================================================================================
+# Nguyen Thanh Vu
 
-Backend PHP
----------------
+Welcome to my GitHub profile! I am a final-year student passionate about PHP backend development. I am eager to gain experience in developing and building applications using modern web technologies.
 
-I've been learning to code for 1 years. I started with HTML, but have really found a passion for backend development...
+## About Me
 
-* 🌍  I'm based in Buon Ma Thuot, Viet Nam
-* ✉️  You can contact me at [nguyenthanhvudvfb@gmail.com](mailto:nguyenthanhvudvfb@gmail.com)
-* 🧠  I'm learning HTML, CSS, JS, PHP, VUEJS, LARAVEL, and MOREee...
+- Education: Final-year student
+- Currently learning: PHP backend development
+- Contact: vuntpk03665@gmail.com
 
-### Skills
+## Education
+- <b>FPT Polytechnic (2023 - Present)</b></br>
+  Major: Backend Development, focusing on PHP and Laravel
 
+## Skills
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+- PHP, Laravel, Vue.js
+- MySQL, HTML, CSS, JavaScript, Bootstrap 5
 
+## Academic Projects
 
-### Socials
+### Du an 1 (Website ecommerce clothes)
+- Description: Dự án của sinh viên nhóm "4 Hag" FPT polytechnic Tây Nguyên
+- Link: <a href="https://github.com/ngthanhvu/du-an-1-fall2024">Github</a>
+- Technologies used: Vuejs, Laravel, MySQL, Bootstrap 5
 
-<p align="left"> <a href="https://discord.com/users/ngthanhvu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/thanhvu.user" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ngthanhvu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/thanhvu.user" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@thanhvu.user" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+### Du an mau
+- Description: Dự án mẫu của sinh viên nhóm "Three Lions" FPT polytechnic
+- Link: <a href="https://github.com/ngthanhvu/du-an-mau-summer2024">Github</a>
+- Technologies used: PHP, Bootstrap 5, JavaScript, MySQL
 
-### Badges
+## Contact
 
-<b>My GitHub Stats</b>
+Email: <a href="mailto:vuntpk03665@gmail.com">Contact here!</a></br>
+Facebook: <a href="https://facebook.com/thanhvu.user">Contact here!</a></br>
+Instagram: <a href="https://instagram.com/ngthanhvu._">Contact here!</a></br>
+Zalo: <a href="https://zalo.me/0837497372">Contact here!</a></br>
+Telegram: <a href="https://t.me/@ngthanhvu">Vu Nhom</a></br>
 
-<a href="http://www.github.com/ngthanhvu"><img src="https://github-readme-stats.vercel.app/api?username=ngthanhvu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ngthanhvu's GitHub stats" /></a>
-
-<a href="https://github.com/ngthanhvu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhvu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+I am excited to leverage the skills and knowledge I have acquired throughout my education at FPT Polytechnic and look forward to applying them to real-world projects. I am committed to continuous learning and growth, aiming to contribute positively to the tech industry and collaborate with other professionals to build impactful applications.
