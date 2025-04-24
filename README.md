@@ -14,10 +14,20 @@ Welcome to my GitHub profile! I am a final-year student passionate about PHP bac
 
 ## Skills
 
-- PHP, Laravel, Vue.js
-- MySQL, HTML, CSS, JavaScript, Bootstrap 5
+- PHP, Laravel, Vue.js, Nuxtjs
+- MySQL, HTML, CSS, JavaScript, Bootstrap 5, TailwindCss
 
 ## Academic Projects
+
+### Kicap store
+- Description: Website bán bàn phím cơ, keycap,...
+- Link: <a href="https://github.com/ngthanhvu/kicap-store">Github</a>
+- Technologies used: Laravel, MySQL, TailwindCss, Bootstrap 5
+
+### Devoi - Web học trực tuyến
+- Description: Dự án website học trực tuyến xây dựng bởi nhóm devoi
+- Link: <a href="https://github.com/ngthanhvu/devoi-web-hoc-truc-tuyen">Github</a>
+- Technologies used: Laravel, MySQL, TailwindCss, Bootstrap 5
 
 ### Du an 1 (Website ecommerce clothes)
 - Description: Dự án của sinh viên nhóm "4 Hag" FPT polytechnic Tây Nguyên
