@@ -4,8 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lọc Thông Tin</title>
-    <!-- Link Bootstrap CSS -->
+
+    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IziToast CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/izitoast@1.4.0/dist/css/iziToast.min.css">
 </head>
 <body>
     <div class="container mt-5">
@@ -22,16 +26,19 @@
         <pre id="output" class="bg-light p-3 border"></pre>
     </div>
 
-    <!-- Link Bootstrap JS and Popper -->
+    <!-- Bootstrap JS and Popper -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
 
+    <!-- IziToast JS -->
+    <script src="https://cdn.jsdelivr.net/npm/izitoast@1.4.0/dist/js/iziToast.min.js"></script>
+
     <script>
         function processData(data) {
-            const lines = data.split('\n').filter(line => line.trim() !== ''); // Loại bỏ dòng trống
+            const lines = data.split('\n').filter(line => line.trim() !== '');
             const result = lines.map(line => {
                 const [cardNumber, expiryMonth, expiryYear, cvv] = line.split('|');
-                return `${cardNumber}\t${expiryMonth}/${expiryYear}\t${cvv}`; // Tách bằng dấu tab
+                return `${cardNumber}\t${expiryMonth}/${expiryYear}\t${cvv}`;
             });
             return result.join('\n');
         }
@@ -45,13 +52,27 @@
 
         function copyToClipboard() {
             const outputText = document.getElementById('output').textContent;
+            if (!outputText) {
+                iziToast.error({
+                    title: 'Lỗi',
+                    message: 'Không có dữ liệu để sao chép!',
+                    position: 'topRight'
+                });
+                return;
+            }
+
             const textarea = document.createElement('textarea');
             textarea.value = outputText;
             document.body.appendChild(textarea);
             textarea.select();
             document.execCommand('copy');
             document.body.removeChild(textarea);
-            alert("Kết quả đã được sao chép!");
+
+            iziToast.success({
+                title: 'Thành công',
+                message: 'Kết quả đã được sao chép!',
+                position: 'topRight'
+            });
         }
     </script>
 </body>
