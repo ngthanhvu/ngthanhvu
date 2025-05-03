@@ -1,51 +1,33 @@
-# Nguyen Thanh Vu
+![👋 Hi, my name is ngthanhvu](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-Welcome to my GitHub profile! I am a final-year student passionate about PHP backend development. I am eager to gain experience in developing and building applications using modern web technologies.
+![Profile views](https://komarev.com/ghpvc/?username=ngthanhvu&label=Profile%20views&color=0e75b6&style=flat)
 
-## About Me
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is ngthanhvu
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- Education: Final-year student
-- Currently learning: PHP backend development
-- Contact: vuntpk03665@gmail.com
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/ngthanhvu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/thanhvu.user" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-## Education
-- <b>FPT Polytechnic (2023 - Present)</b></br>
-  Major: Backend Development, focusing on PHP and Laravel
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-## Skills
+ **<h3 align="left">Skills</h3>**
 
-- PHP, Laravel, Vue.js, Nuxtjs
-- MySQL, HTML, CSS, JavaScript, Bootstrap 5, TailwindCss
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"></div>
 
-## Academic Projects
+ **<h3 align="left">GitHub Stats</h3>**
 
-### Kicap store
-- Description: Website bán bàn phím cơ, keycap,...
-- Link: <a href="https://github.com/ngthanhvu/kicap-store">Github</a>
-- Technologies used: Laravel, MySQL, TailwindCss, Bootstrap 5
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ngthanhvu&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngthanhvu&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
-### Devoi - Web học trực tuyến
-- Description: Dự án website học trực tuyến xây dựng bởi nhóm devoi
-- Link: <a href="https://github.com/ngthanhvu/devoi-web-hoc-truc-tuyen">Github</a>
-- Technologies used: Laravel, MySQL, TailwindCss, Bootstrap 5
+ **<h3 align="left">Support Me</h3>**
 
-### Du an 1 (Website ecommerce clothes)
-- Description: Dự án của sinh viên nhóm "4 Hag" FPT polytechnic Tây Nguyên
-- Link: <a href="https://github.com/ngthanhvu/du-an-1-fall2024">Github</a>
-- Technologies used: Vuejs, Laravel, MySQL, Bootstrap 5
-
-### Du an mau
-- Description: Dự án mẫu của sinh viên nhóm "Three Lions" FPT polytechnic
-- Link: <a href="https://github.com/ngthanhvu/du-an-mau-summer2024">Github</a>
-- Technologies used: PHP, Bootstrap 5, JavaScript, MySQL
-
-## Contact
-
-Email: <a href="mailto:vuntpk03665@gmail.com">Contact here!</a></br>
-Facebook: <a href="https://facebook.com/thanhvu.user">Contact here!</a></br>
-Instagram: <a href="https://instagram.com/ngthanhvu._">Contact here!</a></br>
-Zalo: <a href="https://zalo.me/0837497372">Contact here!</a></br>
-Telegram: <a href="https://t.me/@ngthanhvu">Vu Nhom</a></br>
-
----
-I am excited to leverage the skills and knowledge I have acquired throughout my education at FPT Polytechnic and look forward to applying them to real-world projects. I am committed to continuous learning and growth, aiming to contribute positively to the tech industry and collaborate with other professionals to build impactful applications.
+<p align="left"><a href="https://buymeacoffee.com/#" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
