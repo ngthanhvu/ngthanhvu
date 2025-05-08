@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="flex">
+        <!-- Sidebar -->
+        <div class="w-64 bg-gray-800 p-4 fixed top-0 left-0 h-screen">
+            <h1 class="text-2xl font-bold mb-8">Admin Panel</h1>
+            <nav>
+                <ul class="space-y-2">
+                    <li><a href="#" class="block py-2 px-4 bg-gray-700 rounded">Dashboard</a></li>
+                    <li><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Analytics</a></li>
+                    <li><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Products</a></li>
+                    <li><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Customers</a></li>
+                    <li><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Settings</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <!-- Main Content -->
+        <div class="flex-1 p-8 ml-64">
+            <div class="flex justify-between items-center mb-8">
+                <h2 class="text-3xl font-bold">Dashboard</h2>
+                <div class="flex items-center space-x-4">
+                    <button class="p-2 rounded-full bg-gray-700">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path d="M10 2a6 6 0 00-6 6v3.586l-.707.707A1 1 0 004 14h12a1 1 0 00.707-1.707L16 11.586V8a6 6 0 00-6-6zM10 18a3 3 0 01-3-3h6a3 3 0 01-3 3z" />
+                        </svg>
+                    </button>
+                    <span>Admin User</span>
+                    <div class="w-10 h-10 bg-gray-600 rounded-full"></div>
+                </div>
+            </div>
+
+            <!-- Stats Cards -->
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+                <div class="bg-gray-800 p-6 rounded-lg shadow">
+                    <h3 class="text-gray-400">Total Users</h3>
+                    <p class="text-2xl font-bold">1,234</p>
+                </div>
+                <div class="bg-gray-800 p-6 rounded-lg shadow">
+                    <h3 class="text-gray-400">Total Revenue</h3>
+                    <p class="text-2xl font-bold">$12,345</p>
+                </div>
+                <div class="bg-gray-800 p-6 rounded-lg shadow">
+                    <h3 class="text-gray-400">Pending Orders</h3>
+                    <p class="text-2xl font-bold">56</p>
+                </div>
+                <div class="bg-gray-800 p-6 rounded-lg shadow">
+                    <h3 class="text-gray-400">Products</h3>
+                    <p class="text-2xl font-bold">245</p>
+                </div>
+            </div>
+
+            <!-- Chart Section -->
+            <div class="bg-gray-800 p-6 rounded-lg shadow mb-8">
+                <h3 class="text-xl font-bold mb-4">Sales Overview</h3>
+                <div class="h-64 bg-gray-700 rounded flex items-center justify-center">
+                    <p class="text-gray-400">Chart will be displayed here</p>
+                </div>
+            </div>
+
+            <!-- Recent Activity -->
+            <div class="bg-gray-800 p-6 rounded-lg shadow">
+                <h3 class="text-xl font-bold mb-4">Recent Activity</h3>
+                <div class="space-y-4">
+                    <div class="flex items-start">
+                        <div class="w-10 h-10 bg-gray-600 rounded-full mr-4"></div>
+                        <div>
+                            <p class="font-medium">John Doe placed a new order</p>
+                            <p class="text-sm text-gray-400">2 hours ago</p>
+                        </div>
+                    </div>
+                    <!-- More activities... -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
