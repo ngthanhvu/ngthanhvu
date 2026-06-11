@@ -19,7 +19,101 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"></div>
+<h3>Backend</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/php/777BB4" width="40"><br>
+      PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"><br>
+      Laravel
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/go/00ADD8" width="40"><br>
+      Golang
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="40"><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"><br>
+      NestJS
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"><br>
+      MySQL
+    </td>
+  </tr>
+</table>
+
+<h3>Frontend</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40"><br>
+      Vue
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nuxt/00DC82" width="40"><br>
+      Nuxt
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40"><br>
+      Next.js
+    </td>
+  </tr>
+</table>
+
+<h3>DevOps</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="40"><br>
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40"><br>
+      CI/CD
+    </td>
+  </tr>
+</table>
+
+<h3>AI</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://res.cloudinary.com/appmasters-io/image/upload/v1704907969/openai_icon_2021x2048_4rpe5x7n_6403753a69.png" width="40"><br>
+      OpenAI
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40"><br>
+      Gemini
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="40"><br>
+      Claude
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/cursor/000000" width="40"><br>
+      Cursor
+    </td>
+  </tr>
+</table>
 
  **<h3 align="left">GitHub Stats</h3>**
 
