@@ -20,14 +20,14 @@ Want to know more about me? [Check out my portfolio.](https://ngthanhvu.com/)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ngthanhvux/ngthanhvux/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ngthanhvu/ngthanhvu/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ngthanhvux/ngthanhvux/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/ngthanhvu/ngthanhvu/output/github-snake.svg"
   />
   <img
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ngthanhvux/ngthanhvux/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/ngthanhvu/ngthanhvu/output/github-snake.svg"
   />
 </picture>
