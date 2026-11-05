@@ -12,4 +12,3 @@ I'm ngthanhvux, a full-stack developer with a passion for building modern, scala
 Want to know more about me? [Check out my portfolio.](https://ngthanhvu.com/)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=ngthanhvu&hide_border=true&layout=donut)
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ngthanhvu&hide_border=true&size=compact)
