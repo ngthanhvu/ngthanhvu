@@ -11,4 +11,23 @@ I'm ngthanhvux, a full-stack developer with a passion for building modern, scala
 
 Want to know more about me? [Check out my portfolio.](https://ngthanhvu.com/)
 
-![Top Languages](https://ghstats.dev/api/langs?username=ngthanhvu&hide_border=true&layout=donut)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,linux,python,pinia,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ngthanhvux/ngthanhvux/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ngthanhvux/ngthanhvux/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/ngthanhvux/ngthanhvux/output/github-snake.svg"
+  />
+</picture>
