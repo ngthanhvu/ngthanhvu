@@ -12,4 +12,4 @@ I'm ngthanhvux, a full-stack developer with a passion for building modern, scala
 Want to know more about me? [Check out my portfolio.](https://ngthanhvu.com/)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=ngthanhvu&hide_border=true&layout=donut)
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=ngthanhvu&days=30&width=380&height=210&hide_border=true)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=ngthanhvu&days=30&width=210&height=210&hide_border=true)
